@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=GumballWorld
+comment1.params=
+comment1.target=GumballWorld()
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=msg
+comment3.target=void\ display_label(java.lang.String)
+comment4.params=
+comment4.target=Inspector\ getInspector()
+comment5.params=
+comment5.target=GumballMachine\ getGumballMachine()
+comment6.params=
+comment6.target=RandomPicker\ getRandomPicker()
+comment7.params=
+comment7.target=GreenPicker\ getGreenPicker()
+numComments=8

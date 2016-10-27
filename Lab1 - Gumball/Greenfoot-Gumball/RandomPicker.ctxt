@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RandomPicker
+comment1.params=
+comment1.target=RandomPicker()
+comment2.params=msg
+comment2.target=void\ setMessage(java.lang.String)
+comment3.params=
+comment3.target=Message\ getMessageObj()
+comment4.params=
+comment4.target=Gumball\ getGumBallObj()
+comment5.params=
+comment5.target=void\ select()
+numComments=6

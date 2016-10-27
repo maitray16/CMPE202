@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Inspector
+comment1.params=
+comment1.target=Inspector()
+comment2.params=coin
+comment2.target=void\ inspect(Coin)
+comment3.params=obj
+comment3.target=void\ addPicker(Picker)
+comment4.params=obj
+comment4.target=void\ removePicker(Picker)
+comment5.params=msg
+comment5.target=void\ setMessage(java.lang.String)
+comment6.params=
+comment6.target=Message\ getMessageObj()
+numComments=7
